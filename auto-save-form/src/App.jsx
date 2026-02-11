@@ -1,17 +1,15 @@
 
 import './App.css'
-import ProductList from './components/ProductList'
-
+import AutoSaveForm from './auto-save'
 function App() {
 
 
   return (
     <>
       <div>
-        <h2>Product Store App</h2>
-        <ProductList />
+       <AutoSaveForm />
       </div>
-   
+     
     </>
   )
 }

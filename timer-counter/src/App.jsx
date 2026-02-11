@@ -1,6 +1,6 @@
 
 import './App.css'
-import ProductList from './components/ProductList'
+import TimerCounter from './components/TimerCounter'
 
 function App() {
 
@@ -8,8 +8,7 @@ function App() {
   return (
     <>
       <div>
-        <h2>Product Store App</h2>
-        <ProductList />
+       <TimerCounter />
       </div>
    
     </>

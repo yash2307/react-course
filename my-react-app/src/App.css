@@ -1,0 +1,28 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+
+
+h1 {
+  font-size: 1.5rem;
+}
+
+.item_label {
+  padding: 10px
+}
+
+.item_label_strike {
+  padding: 10px;
+  text-decoration: line-through;
+}
+
+ul>li.list-items {
+  margin-bottom: 10px;
+}
+.list-container {
+  justify-items: center;
+}
